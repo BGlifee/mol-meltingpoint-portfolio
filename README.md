@@ -1,9 +1,9 @@
-# 🧪 Molecular Melting Point Prediction
+#  Molecular Melting Point Prediction
 A fully reproducible, production-style machine learning pipeline for predicting molecular melting points using engineered chemical descriptors and tabular feature reduction techniques.
 
 ---
 
-## 🚀 Overview
+##  Overview
 This project focuses on building a scalable and maintainable ML workflow rather than just achieving a single leaderboard score.  
 It demonstrates how I:
 - design end-to-end pipelines
@@ -12,7 +12,7 @@ It demonstrates how I:
 
 ---
 
-## 🧰 Technologies I Used
+##  Technologies I Used
 - **Python** (core language)
 - **Pandas, NumPy** – data processing
 - **Scikit-learn** – modeling, evaluation, pipelines
@@ -25,7 +25,7 @@ It demonstrates how I:
 
 ---
 
-## ✨ Main Features
+##  Main Features
 ✔️ Clean, modular, production-ready project structure  
 ✔️ Automated feature engineering & feature reduction  
 ✔️ K-Fold evaluation with experiment logging  
@@ -37,7 +37,7 @@ It demonstrates how I:
 
 ---
 
-## 🎮 What Users Can Do
+##  What Users Can Do
 You can:
 - preprocess the dataset
 - build molecular descriptors
@@ -48,3 +48,4 @@ You can:
 - extend the pipeline easily
 
 ---
+
