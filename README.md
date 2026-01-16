@@ -1,4 +1,4 @@
-![Clustering Example](assets/Melting Point Prdiction.png)
+![Clustering Example](assets/Image.png)
 
 #  Molecular Melting Point Prediction
 A fully reproducible, production-style machine learning pipeline for predicting molecular melting points using engineered chemical descriptors and tabular feature reduction techniques.
@@ -50,5 +50,6 @@ You can:
 - extend the pipeline easily
 
 ---
+
 
 
